@@ -1,0 +1,1 @@
+# smoke_detect_fast_api
